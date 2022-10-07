@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DarthVader_reactjs/static/css/main.8a84cb59.css",
-    "main.js": "/DarthVader_reactjs/static/js/main.e7a777fb.js",
+    "main.css": "/DarthVader_reactjs/static/css/main.2735702b.css",
+    "main.js": "/DarthVader_reactjs/static/js/main.9a824cfc.js",
     "static/js/787.8c08adbf.chunk.js": "/DarthVader_reactjs/static/js/787.8c08adbf.chunk.js",
     "static/media/darth.jpg": "/DarthVader_reactjs/static/media/darth.cd271be4ab678fa32dc5.jpg",
     "static/media/bgImg.jpg": "/DarthVader_reactjs/static/media/bgImg.5b280f4dd697f726d14a.jpg",
     "static/media/logo.png": "/DarthVader_reactjs/static/media/logo.7c94692f11717666e246.png",
     "index.html": "/DarthVader_reactjs/index.html",
-    "main.8a84cb59.css.map": "/DarthVader_reactjs/static/css/main.8a84cb59.css.map",
-    "main.e7a777fb.js.map": "/DarthVader_reactjs/static/js/main.e7a777fb.js.map",
+    "main.2735702b.css.map": "/DarthVader_reactjs/static/css/main.2735702b.css.map",
+    "main.9a824cfc.js.map": "/DarthVader_reactjs/static/js/main.9a824cfc.js.map",
     "787.8c08adbf.chunk.js.map": "/DarthVader_reactjs/static/js/787.8c08adbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a84cb59.css",
-    "static/js/main.e7a777fb.js"
+    "static/css/main.2735702b.css",
+    "static/js/main.9a824cfc.js"
   ]
 }
